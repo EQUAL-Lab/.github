@@ -1,14 +1,7 @@
-## Hi there 👋
-We are currently working on this page... please come back soon.
+### Welcome to the EQUAL-Lab GitHub repository
 
+Here you will find the companion code for our [scientific publications](https://blogs.cornell.edu/tufanlab/publications/)
 
-<!--
+To learn more abou the EQUAL-Lab, please visit our website: 
+[EQUAL-Lab: Equitable Agricultural Research Lab](https://blogs.cornell.edu/tufanlab/)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
